@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://zyeags.github.io/csb-uzv3hw/static/css/main.12da3a2f.chunk.css",
-    "main.js": "https://zyeags.github.io/csb-uzv3hw/static/js/main.e69e9220.chunk.js",
-    "main.js.map": "https://zyeags.github.io/csb-uzv3hw/static/js/main.e69e9220.chunk.js.map",
+    "main.js": "https://zyeags.github.io/csb-uzv3hw/static/js/main.7771e3a8.chunk.js",
+    "main.js.map": "https://zyeags.github.io/csb-uzv3hw/static/js/main.7771e3a8.chunk.js.map",
     "runtime-main.js": "https://zyeags.github.io/csb-uzv3hw/static/js/runtime-main.b92046f5.js",
     "runtime-main.js.map": "https://zyeags.github.io/csb-uzv3hw/static/js/runtime-main.b92046f5.js.map",
     "static/js/2.60215569.chunk.js": "https://zyeags.github.io/csb-uzv3hw/static/js/2.60215569.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b92046f5.js",
     "static/js/2.60215569.chunk.js",
     "static/css/main.12da3a2f.chunk.css",
-    "static/js/main.e69e9220.chunk.js"
+    "static/js/main.7771e3a8.chunk.js"
   ]
 }
